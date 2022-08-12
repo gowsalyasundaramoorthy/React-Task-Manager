@@ -1,0 +1,9 @@
+li {
+    cursor: pointer;
+}
+
+.task-list {
+    
+    list-style: circle;
+}
+
